@@ -1,0 +1,13 @@
+.moviesListPage {
+    width: 100%;
+    background: var(--black);
+    margin-top: 16px;
+    padding: 0 16px;
+    box-sizing: border-box;
+}
+
+.moviesList {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
